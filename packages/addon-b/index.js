@@ -11,7 +11,7 @@ module.exports = {
     },
   },
 
-  cacheKeyForTree(treeType) {
-    return cacheKeyForTree(treeType, this);
-  },
+  // cacheKeyForTree(treeType) {
+  //   return cacheKeyForTree(treeType, this);
+  // },
 };
