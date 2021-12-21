@@ -26,6 +26,9 @@
     "test:ember-compatibility": "ember try:each"
   },
   "dependencies": {
+    "addon-a": "*",
+    "addon-b": "*",
+    "calculate-cache-key-for-tree": "^2.0.0",
     "ember-cli-babel": "^7.26.10",
     "ember-cli-htmlbars": "^6.0.1"
   },

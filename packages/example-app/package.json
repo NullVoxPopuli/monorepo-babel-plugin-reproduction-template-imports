@@ -22,11 +22,10 @@
     "test": "npm-run-all lint test:*",
     "test:ember": "ember test"
   },
-  "dependencies": {
-    "addon-a": "*",
-    "addon-b": "*"
-  },
   "devDependencies": {
+    "addon-a": "*",
+    "addon-b": "*",
+    "addon-c": "*",
     "@ember/optional-features": "^2.0.0",
     "@ember/test-helpers": "^2.4.2",
     "@glimmer/component": "^1.0.4",
