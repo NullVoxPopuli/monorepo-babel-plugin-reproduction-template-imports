@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-babel-plugin-reproduction-template-imports",
+  "version": "0.0.0",
+  "repository": "git@github.com:NullVoxPopuli/monorepo-babel-plugin-reproduction-template-imports.git",
+  "author": "NullVoxPopuli",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ]
+}
